@@ -1,0 +1,240 @@
+Go
+0
+GO
+0
+NONE
+
+Mediterranian Avenue
+60
+REGULAR
+2 10 30 90 160 250
+BROWN
+
+Community Chest
+0
+COMMUNITY
+0
+NONE
+
+Baltic Avenue
+60
+REGULAR
+4 20 60 180 320 450
+BROWN
+
+Income Tax
+0
+INCOME_TAX
+200
+NONE
+
+Reading Railroad
+200
+RAIL
+25 50 100 200
+RAIL
+
+Oriental Avenue
+100
+REGULAR
+6 30 90 270 400 550
+BABY_BLUE
+
+Chance
+0
+CHANCE
+0
+NONE
+
+Vermont Avenue
+100
+REGULAR
+6 30 90 270 400 550
+BABY_BLUE
+
+Connecticut Avenue
+120
+REGULAR
+8 40 100 300 450 600
+BABY_BLUE
+
+Jail / Just Visiting
+0
+JAIL_CELL
+0
+NONE
+
+St. Charles Place
+140
+REGULAR
+10 50 150 450 625 750
+PINK
+
+Electric Company
+150
+ELECTRIC
+4 10
+ELECTRIC
+
+States Avenue
+140
+REGULAR
+10 50 150 450 625 750
+PINK
+
+Virginia Avenue
+160
+REGULAR
+12 60 180 500 700 900
+PINK
+
+Pennsylvania Railroad
+200
+RAIL
+25 50 100 200
+RAIL
+
+St. James Place
+180
+REGULAR
+14 70 200 550 750 950
+ORANGE
+
+Community Chest
+0
+COMMUNITY
+0
+NONE
+
+Tennessee Avenue
+180
+REGULAR
+14 70 200 550 750 950
+ORANGE
+
+New York Avenue
+200
+REGULAR
+16 80 220 600 800 1000
+ORANGE
+
+Free Parking
+0
+FREE_PARKING
+0
+NONE
+
+Kentucky Avenue
+220
+REGULAR
+18 90 250 700 875 1050
+RED
+
+Chance
+0
+CHANCE
+0
+NONE
+
+Indiana Avenue
+220
+REGULAR
+18 90 250 700 875 1050
+RED
+
+Illinois Avenue
+240
+REGULAR
+20 100 300 750 925 1100
+RED
+
+B. & O. Railroad
+200
+RAIL
+25 50 100 200
+RAIL
+
+Atlantic Avenue
+260
+REGULAR
+22 110 330 800 975 1150
+YELLOW
+
+Ventnor Avenue
+260
+REGULAR
+22 110 330 800 975 1150
+YELLOW
+
+Water Works
+150
+WATER
+0
+WATER
+
+Marvin Avenue
+260
+REGULAR
+24 120 360 850 1025 1200
+YELLOW
+
+Go To JAIL
+0
+JAIL
+0
+NONE
+
+Pacific Avenue
+300
+REGULAR
+26 130 390 900 1100 1275
+GREEN
+
+North Carolina Avenue
+300
+REGULAR
+26 130 390 900 1100 1275
+GREEN
+
+Community Chest
+0
+COMMUNITY
+0
+NONE
+
+Pennsylvania Avenue
+320
+REGULAR
+28 150 450 1000 1200 1400
+GREEN
+
+Short line
+200
+RAIL
+25 50 100 200
+RAIL
+
+Chance
+0
+CHANCE
+0
+NONE
+
+Park Place
+350
+REGULAR
+35 150 500 1100 1300 1500
+BLUE
+
+Luxury Tax
+0
+SUPER_TAX
+75
+NONE
+
+Boardwalk
+400
+REGULAR
+50 200 600 1400 1700 2000
+BLUE
+
